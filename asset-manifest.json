@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://seppo0010.github.io/theonewiththething.com/static/css/main.e83d502c.css",
-    "main.js": "https://seppo0010.github.io/theonewiththething.com/static/js/main.41e320eb.js",
+    "main.css": "https://seppo0010.github.io/theonewiththething.com/static/css/main.98556b8d.css",
+    "main.js": "https://seppo0010.github.io/theonewiththething.com/static/js/main.de55879e.js",
     "static/js/787.483897ca.chunk.js": "https://seppo0010.github.io/theonewiththething.com/static/js/787.483897ca.chunk.js",
     "worker.js": "https://seppo0010.github.io/theonewiththething.com/469af056a9ac49bcc3c3.worker.js",
     "index.html": "https://seppo0010.github.io/theonewiththething.com/index.html",
-    "main.e83d502c.css.map": "https://seppo0010.github.io/theonewiththething.com/static/css/main.e83d502c.css.map",
-    "main.41e320eb.js.map": "https://seppo0010.github.io/theonewiththething.com/static/js/main.41e320eb.js.map",
+    "main.98556b8d.css.map": "https://seppo0010.github.io/theonewiththething.com/static/css/main.98556b8d.css.map",
+    "main.de55879e.js.map": "https://seppo0010.github.io/theonewiththething.com/static/js/main.de55879e.js.map",
     "787.483897ca.chunk.js.map": "https://seppo0010.github.io/theonewiththething.com/static/js/787.483897ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e83d502c.css",
-    "static/js/main.41e320eb.js"
+    "static/css/main.98556b8d.css",
+    "static/js/main.de55879e.js"
   ]
 }
